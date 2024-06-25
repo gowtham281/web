@@ -1,0 +1,1 @@
+Online Course Registration System is a web-based registration software that helps you to register courses online. It is ideal for schools, educational camps, training programs, and online training programs. It also provides real-time status updates related to courses. Please note that this project is currently under construction and is intended for learning and practice purposes.
